@@ -45,3 +45,5 @@ JoinTravel is a comprehensive travel planning and social platform that helps tra
 - Swagger for API docs
 - LangChain for AI features
 
+## 🧾 Licence
+- MIT
