@@ -1,2 +1,5 @@
 # .github
-Homepage for the JoinTravel organization!
+
+Metadata for the JoinTravel organization.
+
+* [[>]](./profile/README.md) Visit profile.
