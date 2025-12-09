@@ -17,6 +17,7 @@ JoinTravel is a comprehensive travel planning and social platform that helps tra
 
 - **[Technical Documentation](../docs/technical.md)** - Architecture, APIs, and development guides
 - **[User Guide](../docs/user-guide.md)** - How to use JoinTravel features
+- **[Video Demo](https://youtu.be/YyvmYDT34oE)**
 
 ## ✨ Key Features
 
